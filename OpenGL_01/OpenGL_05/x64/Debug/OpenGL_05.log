@@ -1,0 +1,15 @@
+﻿  animation_prog.cpp
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(253): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(250): warning C4101: 'vec' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(251): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(250): warning C4101: 'uec' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(302): warning C4244: '+=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(327): warning C4244: '+=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+c:\users\jaegu\documents\visual studio 2015\projects\opengl_01\opengl_05\animation_prog.cpp(455): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  OpenGL_05.vcxproj -> C:\Users\Jaegu\documents\visual studio 2015\Projects\OpenGL_01\x64\Debug\OpenGL_05.exe
+  OpenGL_05.vcxproj -> C:\Users\Jaegu\documents\visual studio 2015\Projects\OpenGL_01\x64\Debug\OpenGL_05.pdb (Full PDB)

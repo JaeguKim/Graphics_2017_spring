@@ -1,0 +1,23 @@
+﻿game.obj : error LNK2001: __imp____glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewUseProgram 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glutCreateWindowWithExit@8 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewCompileShader 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewGetAttribLocation 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewCreateShader 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glutInitWithExit@12 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewCreateProgram 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutPostRedisplay@0 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutKeyboardFunc@4 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutIdleFunc@4 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutInitDisplayMode@4 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewAttachShader 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewShaderSource 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutDisplayFunc@4 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutMainLoop@0 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutInitWindowPosition@8 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutInitWindowSize@8 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp____glewLinkProgram 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glewInit@0 외부 기호를 확인할 수 없습니다.
+game.obj : error LNK2001: __imp__glutSwapBuffers@0 외부 기호를 확인할 수 없습니다.
+C:\Users\Jaegu\Documents\Visual Studio 2015\Projects\OpenGL_01\Release\OpenGL_03.exe : fatal error LNK1120: 22개의 확인할 수 없는 외부 참조입니다.

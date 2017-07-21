@@ -1,0 +1,5 @@
+﻿HelloGLUT.obj : error LNK2001: __imp_glutInit 외부 기호를 확인할 수 없습니다.
+HelloGLUT.obj : error LNK2001: __imp_glutCreateWindow 외부 기호를 확인할 수 없습니다.
+HelloGLUT.obj : error LNK2001: __imp_glutMainLoop 외부 기호를 확인할 수 없습니다.
+HelloGLUT.obj : error LNK2001: __imp_glutInitWindowSize 외부 기호를 확인할 수 없습니다.
+c:\users\jaegu\documents\visual studio 2015\Projects\OpenGL_01\x64\Release\OpenGL_01.exe : fatal error LNK1120: 4개의 확인할 수 없는 외부 참조입니다.

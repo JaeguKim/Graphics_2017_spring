@@ -1,0 +1,36 @@
+﻿  animation_prog.cpp
+animation_prog.obj : error LNK2019: __imp__glewInit@0 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutInit@8 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutInitWindowPosition@8 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutInitWindowSize@8 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutInitDisplayMode@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutMainLoop@0 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutCreateWindow@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutSwapBuffers@0 외부 기호(참조 위치: "void __cdecl mydisplay(void)" (?mydisplay@@YAXXZ) 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutIdleFunc@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutKeyboardFunc@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2019: __imp__glutDisplayFunc@4 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+animation_prog.obj : error LNK2001: __imp____glewBindBuffer 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewBufferData 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewBufferSubData 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGenBuffers 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewAttachShader 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewCompileShader 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewCreateProgram 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewCreateShader 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewEnableVertexAttribArray 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetAttribLocation 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetProgramInfoLog 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetProgramiv 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetShaderInfoLog 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetShaderiv 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewGetUniformLocation 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewLinkProgram 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewShaderSource 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewUniformMatrix4fv 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewUseProgram 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewValidateProgram 외부 기호를 확인할 수 없습니다.
+animation_prog.obj : error LNK2001: __imp____glewVertexAttribPointer 외부 기호를 확인할 수 없습니다.
+C:\Users\Jaegu\Documents\Visual Studio 2015\Projects\OpenGL_01\OpenGL_05\lib\freeglut.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'X86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Jaegu\Documents\Visual Studio 2015\Projects\OpenGL_01\OpenGL_05\lib\glew32.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'X86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\Jaegu\documents\visual studio 2015\Projects\OpenGL_01\Debug\OpenGL_05.exe : fatal error LNK1120: 32개의 확인할 수 없는 외부 참조입니다.

@@ -1,0 +1,25 @@
+﻿  display.cpp
+  main.cpp
+  mesh.cpp
+  obj_loader.cpp
+..\..\..\..\..\Desktop\ModernOpenGLTutorial-master\obj_loader.cpp(378): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  shader.cpp
+  texture.cpp
+  stb_image.c
+MSVCRT.lib(initializers.obj) : warning LNK4098: 'msvcrtd.lib' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  57 of 1160 functions ( 4.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    42 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+opengl32.lib(OPENGL32.dll) : error LNK2026: 모듈이 SAFESEH 이미지에 대해 안전하지 않습니다.
+C:\Users\Jaegu\Documents\Visual Studio 2015\Projects\OpenGL_01\Release\OpenGL_04.exe : fatal error LNK1281: SAFESEH 이미지를 생성할 수 없습니다.
